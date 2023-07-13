@@ -61,7 +61,7 @@ M 7.5 - South Sandwich Islands region,7.5,12-08-2021 18:32,9,6,green,1,868,us,0,
 "M 8.2 - 91 km ESE of Perryville, Alaska",8.2,29-07-2021 06:15,8,6,green,1,1237,us,0,0.875,66.0,mww,46.66,55.4742,-157.917,"Perryville, Alaska",,United States
 "M 8.2 - 99 km SE of Perryville, Alaska",8.2,29-07-2021 06:15,8,7,yellow,1,1252,ak,0,0.0,0.0,mww,35.0,55.3154,-157.829,"Perryville, Alaska",,United States
 "M 6.7 - 15 km S of Hukay, Philippines",6.7,23-07-2021 20:48,8,5,green,1,935,us,0,8.139,12.0,mww,110.0,13.6989,120.713,"Hukay, Philippines",Asia,Philippines
-"M 6.7 - 71 km S of Burica, Panama",6.7,21-07-2021 21:15,6,6,green,1,830,us,0,1.395,61.0,mww,10.0,7.5904,-82.8813,"Burica, Panama",,Panamá
+"M 6.7 - 71 km S of Burica, Panama",6.7,21-07-2021 21:15,6,6,green,1,830,us,0,1.395,61.0,mww,10.0,7.5904,-82.8813,"Burica, Panama",,
 "M 6.5 - Kermadec Islands, New Zealand",6.5,20-06-2021 17:05,0,4,green,1,650,us,0,7.994,24.0,mww,25.0,-30.2144,-177.773,"Kermadec Islands, New Zealand",,New Zealand/Aotearoa
 "M 6.5 - 265 km SSE of Alo, Wallis and Futuna",6.5,21-05-2021 22:13,5,7,green,1,652,us,0,4.518,44.0,mww,10.0,-16.4796,-177.356,"Alo, Wallis and Futuna",,France
 "M 7.3 - Southern Qinghai, China",7.3,21-05-2021 18:04,9,9,orange,0,1025,us,0,4.655,9.0,mww,10.0,34.5861,98.2551,"Southern Qinghai, China",Asia,People's Republic of China
@@ -711,7 +711,7 @@ M 6.6 - Afghanistan-Tajikistan-Pakistan region,6.6,05-04-2004 21:24,0,4,,0,670,u
 "M 6.5 - 58 km S of Kushiro, Japan",6.5,29-09-2003 02:36,0,5,,0,650,us,586,0.0,71.3,mwc,25.0,42.45,144.38,"Kushiro, Japan",,日本
 "M 7.3 - 29 km S of Aktash, Russia",7.3,27-09-2003 11:33,0,7,,0,820,us,667,0.0,24.5,mwb,16.0,50.038,87.813,"Aktash, Russia",Asia,Russia
 "M 7.4 - 119 km ESE of Shizunai-furukawach?, Japan",7.4,25-09-2003 21:08,0,7,,0,842,us,514,0.0,78.8,mwc,33.0,41.774,143.593,"Shizunai-furukawach?, Japan",Asia,
-"M 8.2 - 134 km SSW of Kushiro, Japan",8.16,25-09-2003 19:50,0,9,,0,1024,official,0,0.0,0.0,mww,27.0,41.815,143.91,"Kushiro, Japan",,日本
+"M 8.2 - 134 km SSW of Kushiro, Japan",8.16,25-09-2003 19:50,0,9,,0,1024,official,0,0.0,0.0,mww,27.0,41.815,143.91,"Kushiro, Japan",,
 "M 6.6 - 16 km SE of Taungdwingyi, Myanmar",6.6,21-09-2003 18:16,0,7,,0,670,us,518,0.0,24.7,mwb,10.0,19.917,95.672,"Taungdwingyi, Myanmar",Asia,Myanmar
 "M 7.2 - 56 km NW of Te Anau, New Zealand",7.2,21-08-2003 12:12,0,7,,0,798,us,428,0.0,17.5,mwc,28.0,-45.104,167.144,"Te Anau, New Zealand",,New Zealand
 M 7.6 - Scotia Sea,7.6,04-08-2003 04:37,0,6,,0,889,us,315,0.0,25.2,mwc,10.0,-60.532,-43.411,Scotia Sea,,United Kingdom of Great Britain and Northern Ireland (the)
