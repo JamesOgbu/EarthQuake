@@ -3,7 +3,7 @@ title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,dep
 "M 6.9 - 204 km SW of Bengkulu, Indonesia",6.9,18-11-2022 13:37,4,4,green,0,735,us,99,2.229,34.0,mww,25.0,-4.9559,100.738,"Bengkulu, Indonesia",Asia,Indonesia
 M 7.0 - ,7.0,12-11-2022 07:09,3,3,green,1,755,us,147,3.125,18.0,mww,579.0,-20.0508,-178.346,,Oceania,
 "M 7.3 - 205 km ESE of Neiafu, Tonga",7.3,11-11-2022 10:48,5,5,green,1,833,us,149,1.865,21.0,mww,37.0,-19.2918,-172.129,"Neiafu, Tonga",Oceania,Tonga
-M 6.6 - ,6.6,09-11-2022 10:14,0,2,green,1,670,us,131,4.998,27.0,mww,624.464,-25.5948,178.278,,,Italia
+M 6.6 - ,6.6,09-11-2022 10:14,0,2,green,1,670,us,131,4.998,27.0,mww,624.464,-25.5948,178.278,,,
 M 7.0 - south of the Fiji Islands,7.0,09-11-2022 09:51,4,3,green,1,755,us,142,4.578,26.0,mwb,660.0,-26.0442,178.381,the Fiji Islands,,the Fiji Islands
 M 6.8 - south of the Fiji Islands,6.8,09-11-2022 09:38,1,3,green,1,711,us,136,4.678,22.0,mww,630.379,-25.9678,178.363,the Fiji Islands,,the Fiji Islands
 "M 6.7 - 60 km SSW of Boca Chica, Panama",6.7,20-10-2022 11:57,7,6,green,1,797,us,145,1.151,37.0,mww,20.0,7.6712,-82.3396,"Boca Chica, Panama",North America,Panama
@@ -18,7 +18,7 @@ M 6.6 - south of the Kermadec Islands,6.6,14-08-2022 13:44,7,6,green,1,672,us,68
 "M 7.0 - 11 km NE of Bantay, Philippines",7.0,27-07-2022 00:43,9,8,yellow,1,1351,us,152,5.276,22.0,mww,33.729,17.5978,120.809,"Bantay, Philippines",Asia,Philippines
 "M 6.5 - 107 km SSW of Tarauacá, Brazil",6.5,08-06-2022 00:55,3,2,green,0,653,us,236,1.999,31.0,mww,622.73,-9.0618,-71.1647,"Tarauacá, Brazil",South America,Brazil
 "M 7.2 - 10 km W of Azángaro, Peru",7.2,26-05-2022 12:02,7,5,green,1,876,us,144,2.494,40.0,mww,236.0,-14.8628,-70.3081,"Azángaro, Peru",South America,Peru
-M 6.9 - ,6.9,19-05-2022 10:13,2,5,green,1,733,us,127,0.371,45.0,mww,10.0,-54.1325,159.027,,,Italia
+M 6.9 - ,6.9,19-05-2022 10:13,2,5,green,1,733,us,127,0.371,45.0,mww,10.0,-54.1325,159.027,,,
 "M 6.8 - 86 km NNW of San Antonio de los Cobres, Argentina",6.8,10-05-2022 23:06,6,5,green,1,762,us,162,1.505,30.0,mww,220.0,-23.6141,-66.7236,"San Antonio de los Cobres, Argentina",South America,Argentina
 "M 6.6 - 55 km WSW of Masachapa, Nicaragua",6.6,21-04-2022 07:42,6,5,green,1,762,us,0,0.914,94.0,mww,27.0,11.5538,-86.9919,"Masachapa, Nicaragua",North America,Nicaragua
 M 7.0 - southeast of the Loyalty Islands,7.0,31-03-2022 05:44,6,4,green,1,763,us,0,2.705,26.0,mww,10.0,-22.5732,170.349,the Loyalty Islands,Europe,the Loyalty Islands
@@ -245,7 +245,7 @@ M 7.2 - southeast of the Loyalty Islands,7.2,12-08-2016 01:26,6,5,green,1,799,us
 "M 7.7 - Pagan region, Northern Mariana Islands",7.7,29-07-2016 21:18,5,6,green,1,971,us,0,3.294,14.0,mww,196.0,18.5429,145.507,"Pagan region, Northern Mariana Islands",Oceania,Northern Mariana Islands
 "M 6.6 - 80 km W of Sungai Penuh, Indonesia",6.6,01-06-2016 22:56,4,6,green,0,671,us,0,2.435,16.0,mww,50.0,-2.0967,100.665,"Sungai Penuh, Indonesia",Asia,Indonesia
 M 7.2 - South Sandwich Islands region,7.2,28-05-2016 09:46,1,6,green,1,798,us,0,5.803,24.0,mww,78.0,-56.2409,-26.9353,South Sandwich Islands region,,South Sandwich Islands region
-M 6.9 - ,6.9,28-05-2016 05:38,3,3,green,1,733,us,0,5.485,19.0,mww,405.69,-21.9724,-178.204,,,Italia
+M 6.9 - ,6.9,28-05-2016 05:38,3,3,green,1,733,us,0,5.485,19.0,mww,405.69,-21.9724,-178.204,,,
 "M 6.9 - 24 km NW of Rosa Zarate, Ecuador",6.9,18-05-2016 16:46,8,7,green,1,780,us,0,1.192,17.0,mww,29.95,0.4947,-79.616,"Rosa Zarate, Ecuador",South America,Ecuador
 "M 6.7 - 32 km SE of Muisne, Ecuador",6.7,18-05-2016 07:57,5,7,green,1,744,us,0,1.352,21.0,mww,16.0,0.4261,-79.7899,"Muisne, Ecuador",South America,Ecuador
 "M 7.0 - 3 km NW of Norsup, Vanuatu",7.0,28-04-2016 19:33,7,7,green,1,755,us,0,0.616,14.0,mww,24.0,-16.0429,167.379,"Norsup, Vanuatu",Oceania,Vanuatu
@@ -289,7 +289,7 @@ M 6.9 - ,6.9,28-05-2016 05:38,3,3,green,1,733,us,0,5.485,19.0,mww,405.69,-21.972
 "M 6.5 - 177 km SE of Gizo, Solomon Islands",6.5,12-08-2015 18:49,0,5,green,1,650,us,0,2.045,16.0,mww,6.43,-9.3293,157.877,"Gizo, Solomon Islands",Oceania,Solomon Islands
 "M 6.6 - 186 km WNW of Malango, Solomon Islands",6.6,10-08-2015 04:12,3,5,green,1,671,us,0,1.872,20.0,mww,22.0,-9.3438,158.053,"Malango, Solomon Islands",Oceania,Solomon Islands
 "M 7.0 - 234 km W of Abepura, Indonesia",7.0,27-07-2015 21:41,9,7,green,1,762,us,0,6.278,12.0,mww,48.0,-2.6286,138.528,"Abepura, Indonesia",Asia,Indonesia
-"M 6.9 - Fox Islands, Aleutian Islands, Alaska",6.9,27-07-2015 04:49,4,7,green,1,734,us,0,0.444,39.0,mww,29.0,52.376,-169.446,"Fox Islands, Aleutian Islands, Alaska",North America,Alaska
+"M 6.9 - Fox Islands, Aleutian Islands, Alaska",6.9,27-07-2015 04:49,4,7,green,1,734,us,0,0.444,39.0,mww,29.0,52.376,-169.446,"Fox Islands, Aleutian Islands, Alaska",,Alaska
 "M 7.0 - 80 km WNW of Lata, Solomon Islands",7.0,18-07-2015 02:27,8,6,green,1,759,us,0,5.205,22.0,mww,11.0,-10.4012,165.141,"Lata, Solomon Islands",Oceania,Solomon Islands
 "M 6.5 - 128 km NE of Bathsheba, Barbados",6.5,16-07-2015 15:16,4,4,green,1,686,us,0,1.218,20.0,mww,20.0,13.8672,-58.5479,"Bathsheba, Barbados",North America,Barbados
 "M 6.7 - 150 km WNW of Malango, Solomon Islands",6.7,10-07-2015 04:12,4,5,green,1,691,us,0,1.529,11.0,mww,12.0,-9.307,158.403,"Malango, Solomon Islands",Oceania,Solomon Islands
