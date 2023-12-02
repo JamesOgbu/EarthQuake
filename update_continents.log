@@ -1,0 +1,990 @@
+ERROR:root:Error updating continent for country 'nan': object of type 'float' has no len()
+ERROR:root:Error updating continent for country 'the Kermadec Islands': "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error updating continent for country 'nan': object of type 'float' has no len()
+ERROR:root:Error updating continent for country 'Kermadec Islands region': "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error updating continent for country 'Pólis, Cyprus': "Invalid Country Name: 'Pólis, Cyprus'"
+ERROR:root:Error updating continent for country 'Antarctica': "Invalid Country Alpha-2 code: 'AQ'"
+ERROR:root:Error updating continent for country 'Antarctica': "Invalid Country Alpha-2 code: 'AQ'"
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=South+Sandwich+Islands+region&format=json&limit=1&addressdetails=1
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'Pondaguitan, Philippines': "Invalid Country Name: 'Pondaguitan, Philippines'"
+ERROR:root:Error updating continent for country 'Ust’-Kamchatsk Staryy, Russia': "Invalid Country Name: 'Ust’-Kamchatsk Staryy, Russia'"
+ERROR:root:Error updating continent for country 'Kermadec Islands region': "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error updating continent for country 'Antarctica': "Invalid Country Alpha-2 code: 'AQ'"
+ERROR:root:Error updating continent for country 'Pondaguitan, Philippines': "Invalid Country Name: 'Pondaguitan, Philippines'"
+ERROR:root:Error updating continent for country 'central Mid-Atlantic Ridge': "Invalid Country Name: 'central Mid-Atlantic Ridge'"
+ERROR:root:Error updating continent for country 'central Mid-Atlantic Ridge': "Invalid Country Name: 'central Mid-Atlantic Ridge'"
+ERROR:root:Error updating continent for country 'the Kermadec Islands': "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error updating continent for country 'Ndoi Island, Fiji': "Invalid Country Name: 'Ndoi Island, Fiji'"
+ERROR:root:Error updating continent for country 'United Kingdom of Great Britain and Northern Ireland (the)': "Invalid Country Name: 'United Kingdom of Great Britain and Northern Ireland (the)'"
+ERROR:root:Error updating continent for country 'Prince Edward Islands region': "Invalid Country Name: 'Prince Edward Islands region'"
+ERROR:root:Error updating continent for country 'Pondaguitan, Philippines': "Invalid Country Name: 'Pondaguitan, Philippines'"
+ERROR:root:Error updating continent for country 'Ust’-Kamchatsk Staryy, Russia': "Invalid Country Name: 'Ust’-Kamchatsk Staryy, Russia'"
+ERROR:root:Error updating continent for country 'Olonkinbyen, Svalbard and Jan Mayen': "Invalid Country Name: 'Olonkinbyen, Svalbard and Jan Mayen'"
+ERROR:root:Error updating continent for country 'Lithakiá, Greece': "Invalid Country Name: 'Lithakiá, Greece'"
+ERROR:root:Error updating continent for country 'Kermadec Islands region': "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error updating continent for country 'Bouvet Island region': "Invalid Country Name: 'Bouvet Island region'"
+ERROR:root:Error updating continent for country 'Attu Station, Alaska': "Invalid Country Name: 'Attu Station, Alaska'"
+ERROR:root:Error updating continent for country 'Komandorskiye Ostrova, Russia region': "Invalid Country Name: 'Komandorskiye Ostrova, Russia region'"
+ERROR:root:Error updating continent for country 'Auckland Islands, New Zealand region': "Invalid Country Name: 'Auckland Islands, New Zealand region'"
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'Tabiauan, Philippines': "Invalid Country Name: 'Tabiauan, Philippines'"
+ERROR:root:Error updating continent for country 'Namie, Japan': "Invalid Country Name: 'Namie, Japan'"
+ERROR:root:Error updating continent for country 'Pagan region, Northern Mariana Islands': "Invalid Country Name: 'Pagan region, Northern Mariana Islands'"
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'nan': object of type 'float' has no len()
+ERROR:root:Error updating continent for country 'Nicobar Islands, India region': "Invalid Country Name: 'Nicobar Islands, India region'"
+ERROR:root:Error updating continent for country 'Malango, Solomon Islands': "Invalid Country Name: 'Malango, Solomon Islands'"
+ERROR:root:Error updating continent for country 'Fox Islands, Aleutian Islands, Alaska': "Invalid Country Name: 'Fox Islands, Aleutian Islands, Alaska'"
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Bonin+Islands%2C+Japan+region&format=json&limit=1&addressdetails=1
+ERROR:root:Error updating continent for country 'Bonin Islands, Japan region': "Invalid Country Name: 'Bonin Islands, Japan region'"
+ERROR:root:Error updating continent for country 'Bonin Islands, Japan region': "Invalid Country Name: 'Bonin Islands, Japan region'"
+ERROR:root:Error updating continent for country 'Piti Village, Guam': "Invalid Country Name: 'Piti Village, Guam'"
+ERROR:root:Error updating continent for country 'South Sandwich Islands region': "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error updating continent for country 'the Kermadec Islands': "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error updating continent for country 'United Kingdom of Great Britain and Northern Ireland (the)': "Invalid Country Name: 'United Kingdom of Great Britain and Northern Ireland (the)'"
+ERROR:root:Error updating continent for country 'United Kingdom of Great Britain and Northern Ireland (the)': "Invalid Country Name: 'United Kingdom of Great Britain and Northern Ireland (the)'"
+ERROR:root:Error updating continent for country 'off the east coast of Honshu, Japan': "Invalid Country Name: 'off the east coast of Honshu, Japan'"
+ERROR:root:Error updating continent for country 'Kíssamos, Greece': "Invalid Country Name: 'Kíssamos, Greece'"
+ERROR:root:Error updating continent for country 'Izu Islands, Japan region': "Invalid Country Name: 'Izu Islands, Japan region'"
+ERROR:root:Error updating continent for country 'United Kingdom of Great Britain and Northern Ireland (the)': "Invalid Country Name: 'United Kingdom of Great Britain and Northern Ireland (the)'"
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=northern+Mid-Atlantic+Ridge&format=json&limit=1&addressdetails=1
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=northern+Mid-Atlantic+Ridge&format=json&limit=1&addressdetails=1
+ERROR:root:Error updating continent for country 'northern Mid-Atlantic Ridge': "Invalid Country Name: 'northern Mid-Atlantic Ridge'"
+ERROR:root:Error updating continent for country 'Pagan region, Northern Mariana Islands': "Invalid Country Name: 'Pagan region, Northern Mariana Islands'"
+ERROR:root:Error updating continent for country 'Ozernovskiy, Russia': "Invalid Country Name: 'Ozernovskiy, Russia'"
+ERROR:root:Error updating continent for country 'Ozernovskiy, Russia': "Invalid Country Name: 'Ozernovskiy, Russia'"
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=off+the+west+coast+of+northern+Sumatra&format=json&limit=1&addressdetails=1
+ERROR:root:Error updating continent for country 'off the west coast of northern Sumatra': "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error updating continent for country 'off the west coast of northern Sumatra': "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error updating continent for country 'off the west coast of northern Sumatra': "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error updating continent for country 'Kermadec Islands region': "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error updating continent for country '2011 Great Tohoku Earthquake, Japan': "Invalid Country Name: '2011 Great Tohoku Earthquake, Japan'"
+ERROR:root:Error updating continent for country 'Nicobar Islands, India region': "Invalid Country Name: 'Nicobar Islands, India region'"
+ERROR:root:Error updating continent for country 'Ferndale, California': "Invalid Country Name: 'Ferndale, California'"
+ERROR:root:Error updating continent for country 'Koróni, Greece': "Invalid Country Name: 'Koróni, Greece'"
+ERROR:root:Error updating continent for country 'Methóni, Greece': "Invalid Country Name: 'Methóni, Greece'"
+ERROR:root:Error updating continent for country 'Malango, Solomon Islands': "Invalid Country Name: 'Malango, Solomon Islands'"
+ERROR:root:Error updating continent for country 'the Kuril Islands': "Invalid Country Name: 'the Kuril Islands'"
+ERROR:root:Error updating continent for country 'Nicobar Islands, India region': "Invalid Country Name: 'Nicobar Islands, India region'"
+ERROR:root:Error updating continent for country 'Nicobar Islands, India region': "Invalid Country Name: 'Nicobar Islands, India region'"
+ERROR:root:Error updating continent for country 'Yonakuni, Japan': "Invalid Country Name: 'Yonakuni, Japan'"
+ERROR:root:Error updating continent for country 'Shing?, Japan': "Invalid Country Name: 'Shing?, Japan'"
+ERROR:root:Error updating continent for country 'Shing?, Japan': "Invalid Country Name: 'Shing?, Japan'"
+ERROR:root:Error updating continent for country 'Shing?, Japan': "Invalid Country Name: 'Shing?, Japan'"
+ERROR:root:Error updating continent for country 'Kushiro, Japan': "Invalid Country Name: 'Kushiro, Japan'"
+ERROR:root:Error updating continent for country 'Shizunai-furukawach?, Japan': "Invalid Country Name: 'Shizunai-furukawach?, Japan'"
+ERROR:root:Error updating continent for country 'United Kingdom of Great Britain and Northern Ireland (the)': "Invalid Country Name: 'United Kingdom of Great Britain and Northern Ireland (the)'"
+ERROR:root:Error updating continent for country 'San Jose Village, Northern Mariana Islands': "Invalid Country Name: 'San Jose Village, Northern Mariana Islands'"
+ERROR:root:Error updating continent for country 'Nuxco, Mexico': "Invalid Country Name: 'Nuxco, Mexico'"
+ERROR:root:Error updating continent for country 'Hualien City, Taiwan': "Invalid Country Name: 'Hualien City, Taiwan'"
+ERROR:root:Error updating continent for country 'Yonakuni, Japan': "Invalid Country Name: 'Yonakuni, Japan'"
+ERROR:root:Error updating continent for country 'Inarajan Village, Guam': "Invalid Country Name: 'Inarajan Village, Guam'"
+ERROR:root:Error updating continent for country 'Old Harbor, Alaska': "Invalid Country Name: 'Old Harbor, Alaska'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Brasil': "Invalid Country Name: 'Brasil'"
+ERROR:root:Error updating continent for country 'Brasil': "Invalid Country Name: 'Brasil'"
+ERROR:root:Error updating continent for country 'Panamá': "Invalid Country Name: 'Panamá'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Ελλάς': "Invalid Country Name: 'Ελλάς'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Panamá': "Invalid Country Name: 'Panamá'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'Brasil': "Invalid Country Name: 'Brasil'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'Panamá': "Invalid Country Name: 'Panamá'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Sāmoa': "Invalid Country Name: 'Sāmoa'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Россия': "Invalid Country Name: 'Россия'"
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+ERROR:root:Error updating continent for country 'Viti': "Invalid Country Name: 'Viti'"
+ERROR:root:Error updating continent for country 'México': "Invalid Country Name: 'México'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'New Zealand / Aotearoa': "Invalid Country Name: 'New Zealand / Aotearoa'"
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country '日本': argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error updating continent for country 'Papua Niugini': "Invalid Country Name: 'Papua Niugini'"
+INFO:root:Saved updated DataFrame to 'earthquake_combined.csv'
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'nan': 'address'
+ERROR:root:Error geocoding location 'Neiafu, Tonga': 'address'
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'nan': 'address'
+ERROR:root:Error converting country 'the Fiji Islands' to continent: "Invalid Country Name: 'the Fiji Islands'"
+ERROR:root:Error geocoding location 'the Fiji Islands': 'address'
+ERROR:root:Error converting country 'the Fiji Islands' to continent: "Invalid Country Name: 'the Fiji Islands'"
+ERROR:root:Error geocoding location 'the Fiji Islands': 'address'
+ERROR:root:Error geocoding location 'Boca Chica, Panama': 'address'
+ERROR:root:Error geocoding location 'Aguililla, Mexico': 'address'
+ERROR:root:Error geocoding location 'Aguililla, Mexico': 'address'
+ERROR:root:Error geocoding location 'Yujing, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Lugu, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Kainantu, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kangding, China': 'address'
+ERROR:root:Error converting country 'the Kermadec Islands' to continent: "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error geocoding location 'Bantay, Philippines': 'address'
+ERROR:root:Error geocoding location 'Tarauacá, Brazil': 'address'
+ERROR:root:Error geocoding location 'Azángaro, Peru': 'address'
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'nan': 'address'
+ERROR:root:Error geocoding location 'San Antonio de los Cobres, Argentina': 'address'
+ERROR:root:Error geocoding location 'Masachapa, Nicaragua': 'address'
+ERROR:root:Error converting country 'the Loyalty Islands' to continent: "Invalid Country Name: 'the Loyalty Islands'"
+ERROR:root:Error geocoding location 'the Loyalty Islands': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Hualien City, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error geocoding location 'Pariaman, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error converting country 'the Fiji Islands' to continent: "Invalid Country Name: 'the Fiji Islands'"
+ERROR:root:Error geocoding location 'the Fiji Islands': 'address'
+ERROR:root:Error geocoding location 'Barranca, Peru': 'address'
+ERROR:root:Error converting country 'Kermadec Islands region' to continent: "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error geocoding location 'Labuan, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Nikolski, Alaska': 'address'
+ERROR:root:Error geocoding location 'Pólis, Cyprus': 'address'
+ERROR:root:Error converting country 'Timor Leste' to continent: "Invalid Country Name: 'Timor Leste'"
+ERROR:root:Error geocoding location 'Lospalos, Timor Leste': 'address'
+ERROR:root:Error converting country 'Flores Sea' to continent: "Invalid Country Name: 'Flores Sea'"
+ERROR:root:Error geocoding location 'Flores Sea': 'address'
+ERROR:root:Error geocoding location 'Barranca, Peru': 'address'
+ERROR:root:Error geocoding location 'Hirara, Japan': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Chignik, Alaska': 'address'
+ERROR:root:Error converting country 'Vanuatu region' to continent: "Invalid Country Name: 'Vanuatu region'"
+ERROR:root:Error geocoding location 'Vanuatu region': 'address'
+ERROR:root:Error converting country 'Vanuatu region' to continent: "Invalid Country Name: 'Vanuatu region'"
+ERROR:root:Error geocoding location 'Vanuatu region': 'address'
+ERROR:root:Error geocoding location 'Jiquilillo, Nicaragua': 'address'
+ERROR:root:Error geocoding location 'Acapulco, Mexico': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error geocoding location 'Nippes, Haiti': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Perryville, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Perryville, Alaska': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Perryville, Alaska': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Perryville, Alaska': 'address'
+ERROR:root:Error geocoding location 'Hukay, Philippines': 'address'
+ERROR:root:Error geocoding location 'Burica, Panama': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Alo, Wallis and Futuna': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error converting country 'Mauritius - Reunion region' to continent: "Invalid Country Name: 'Mauritius - Reunion region'"
+ERROR:root:Error geocoding location 'Mauritius - Reunion region': 'address'
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'nan': 'address'
+ERROR:root:Error geocoding location 'Haveluloto, Tonga': 'address'
+ERROR:root:Error geocoding location 'Pangai, Tonga': 'address'
+ERROR:root:Error geocoding location 'Ishinomaki, Japan': 'address'
+ERROR:root:Error converting country 'Kermadec Islands region' to continent: "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Gisborne, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error converting country 'the Loyalty Islands' to continent: "Invalid Country Name: 'the Loyalty Islands'"
+ERROR:root:Error geocoding location 'the Loyalty Islands': 'address'
+ERROR:root:Error converting country 'South Shetland Islands' to continent: "Invalid Country Name: 'South Shetland Islands'"
+ERROR:root:Error geocoding location 'South Shetland Islands': 'address'
+ERROR:root:Error geocoding location 'Turt, Mongolia': 'address'
+ERROR:root:Error geocoding location 'Corral, Chile': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Sand Point, Alaska': 'address'
+ERROR:root:Error converting country 'central Mid-Atlantic Ridge' to continent: "Invalid Country Name: 'central Mid-Atlantic Ridge'"
+ERROR:root:Error geocoding location 'Vallenar, Chile': 'address'
+ERROR:root:Error geocoding location 'Vallenar, Chile': 'address'
+ERROR:root:Error converting country 'central Mid-Atlantic Ridge' to continent: "Invalid Country Name: 'central Mid-Atlantic Ridge'"
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'San Pedro, Philippines': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Perryville, Alaska': 'address'
+ERROR:root:Error geocoding location 'Popondetta, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Batang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Santa María Xadani, Mexico': 'address'
+ERROR:root:Error converting country 'the Kermadec Islands' to continent: "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error geocoding location 'Naze, Japan': 'address'
+ERROR:root:Error geocoding location 'San Pedro de Atacama, Chile': 'address'
+ERROR:root:Error converting country 'NV Earthquake' to continent: "Invalid Country Name: 'NV Earthquake'"
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error converting country 'Banda Sea' to continent: "Invalid Country Name: 'Banda Sea'"
+ERROR:root:Error geocoding location 'Banda Sea': 'address'
+ERROR:root:Error geocoding location 'Néa Anatolí, Greece': 'address'
+ERROR:root:Error converting country 'Idaho' to continent: "Invalid Country Name: 'Idaho'"
+ERROR:root:Error geocoding location 'Stanley, Idaho': 'address'
+ERROR:root:Error geocoding location 'Severo-Kuril’sk, Russia': 'address'
+ERROR:root:Error geocoding location 'Kuril’sk, Russia': 'address'
+ERROR:root:Error geocoding location 'Lucea, Jamaica': 'address'
+ERROR:root:Error geocoding location 'Magsaysay, Philippines': 'address'
+ERROR:root:Error geocoding location 'Bitung, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Neiafu, Tonga': 'address'
+ERROR:root:Error geocoding location 'Kisante, Philippines': 'address'
+ERROR:root:Error geocoding location 'Columbio, Philippines': 'address'
+ERROR:root:Error geocoding location 'Constitución, Chile': 'address'
+ERROR:root:Error geocoding location 'Kairatu, Indonesia': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands' to continent: "Invalid Country Name: 'South Sandwich Islands'"
+ERROR:root:Error geocoding location 'Bristol Island, South Sandwich Islands': 'address'
+ERROR:root:Error geocoding location 'Labuan, Indonesia': 'address'
+ERROR:root:Error geocoding location 'San Antonio, Chile': 'address'
+ERROR:root:Error geocoding location 'Lakatoro, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Laiwui, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Broome, Australia': 'address'
+ERROR:root:Error geocoding location 'Kota Ternate, Indonesia': 'address'
+ERROR:root:Error converting country 'CA' to continent: argument of type 'functools._lru_cache_wrapper' is not iterable
+ERROR:root:Error geocoding location 'Searles Valley, CA': 'address'
+ERROR:root:Error geocoding location 'Saumlaki, Indonesia': 'address'
+ERROR:root:Error geocoding location 'L'Esperance Rock, New Zealand': 'address'
+ERROR:root:Error geocoding location 'La Libertad, El Salvador': 'address'
+ERROR:root:Error geocoding location 'Navarro, Peru': 'address'
+ERROR:root:Error geocoding location 'Namatanai, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Bulolo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Luwuk, Indonesia': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands' to continent: "Invalid Country Name: 'South Sandwich Islands'"
+ERROR:root:Error geocoding location 'Bristol Island, South Sandwich Islands': 'address'
+ERROR:root:Error geocoding location 'Azángaro, Peru': 'address'
+ERROR:root:Error geocoding location 'Palora, Ecuador': 'address'
+ERROR:root:Error geocoding location 'Puerto Madero, Mexico': 'address'
+ERROR:root:Error converting country 'Prince Edward Islands region' to continent: "Invalid Country Name: 'Prince Edward Islands region'"
+ERROR:root:Error geocoding location 'Coquimbo, Chile': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error converting country 'Molucca Sea' to continent: "Invalid Country Name: 'Molucca Sea'"
+ERROR:root:Error geocoding location 'Molucca Sea': 'address'
+ERROR:root:Error geocoding location 'Tarauaca, Brazil': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Point MacKenzie, Alaska': 'address'
+ERROR:root:Error geocoding location 'Levuka, Fiji': 'address'
+ERROR:root:Error geocoding location 'Lithakiá, Greece': 'address'
+ERROR:root:Error geocoding location 'Port McNeill, Canada': 'address'
+ERROR:root:Error geocoding location 'Port McNeill, Canada': 'address'
+ERROR:root:Error geocoding location 'Port McNeill, Canada': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Ozernovskiy, Russia': 'address'
+ERROR:root:Error geocoding location 'Severo-Kuril’sk, Russia': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Levuka, Fiji': 'address'
+ERROR:root:Error geocoding location 'Palu, Indonesia': 'address'
+ERROR:root:Error converting country 'the Fiji Islands' to continent: "Invalid Country Name: 'the Fiji Islands'"
+ERROR:root:Error geocoding location 'the Fiji Islands': 'address'
+ERROR:root:Error converting country 'Kermadec Islands region' to continent: "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Levuka, Fiji': 'address'
+ERROR:root:Error geocoding location 'Chitose, Japan': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Iñapari, Peru': 'address'
+ERROR:root:Error geocoding location 'Lakatoro, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Carúpano, Venezuela': 'address'
+ERROR:root:Error geocoding location 'Labuan Lombok, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Levuka, Fiji': 'address'
+ERROR:root:Error geocoding location 'Labuan Bajo, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Adak, Alaska': 'address'
+ERROR:root:Error geocoding location 'Labuan Lombok, Indonesia': 'address'
+ERROR:root:Error converting country 'Hawaii' to continent: "Invalid Country Name: 'Hawaii'"
+ERROR:root:Error geocoding location 'Leilani Estates, Hawaii': 'address'
+ERROR:root:Error geocoding location 'Boyuibe, Bolivia': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Tari, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Tari, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Pinotepa de Don Luis, Mexico': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Chiniak, Alaska': 'address'
+ERROR:root:Error geocoding location 'Atiquipa, Peru': 'address'
+ERROR:root:Error geocoding location 'Barra Patuca, Honduras': 'address'
+ERROR:root:Error geocoding location 'Kawalu, Indonesia': 'address'
+ERROR:root:Error converting country 'Bouvet Island region' to continent: "Invalid Country Name: 'Bouvet Island region'"
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Parrita, Costa Rica': 'address'
+ERROR:root:Error geocoding location 'Angoram, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Hihifo, Tonga': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Maumere, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Attu Station, Alaska': 'address'
+ERROR:root:Error geocoding location 'Matzaco, Mexico': 'address'
+ERROR:root:Error geocoding location 'Chiapas, Mexico': 'address'
+ERROR:root:Error geocoding location 'Mawu, China': 'address'
+ERROR:root:Error geocoding location 'Kos, Greece': 'address'
+ERROR:root:Error converting country 'Russia region' to continent: "Invalid Country Name: 'Russia region'"
+ERROR:root:Error converting country 'New Zealand region' to continent: "Invalid Country Name: 'New Zealand region'"
+ERROR:root:Error geocoding location 'Lim-oo, Philippines': 'address'
+ERROR:root:Error geocoding location 'Puerto San José, Guatemala': 'address'
+ERROR:root:Error geocoding location 'San Pablo, Guatemala': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Attu Station, Alaska': 'address'
+ERROR:root:Error geocoding location 'Poso, Indonesia': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=South+Sandwich+Islands+region&format=json&limit=1
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Burias, Philippines': 'address'
+ERROR:root:Error geocoding location 'Valparaíso, Chile': 'address'
+ERROR:root:Error converting country 'the Fiji Islands' to continent: "Invalid Country Name: 'the Fiji Islands'"
+ERROR:root:Error geocoding location 'the Fiji Islands': 'address'
+ERROR:root:Error geocoding location 'Padilla, Bolivia': 'address'
+ERROR:root:Error geocoding location 'Mabua, Philippines': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Nadi, Fiji': 'address'
+ERROR:root:Error geocoding location 'Quellón, Chile': 'address'
+ERROR:root:Error converting country 'Timor Leste' to continent: "Invalid Country Name: 'Timor Leste'"
+ERROR:root:Error geocoding location 'Lospalos, Timor Leste': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error converting country 'California' to continent: "Invalid Country Name: 'California'"
+ERROR:root:Error geocoding location 'Ferndale, California': 'address'
+ERROR:root:Error geocoding location 'Reuleuet, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Murghob, Tajikistan': 'address'
+ERROR:root:Error geocoding location 'Puerto El Triunfo, El Salvador': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Amberley%2C+New+Zealand&format=json&limit=1
+ERROR:root:Error geocoding location 'Amberley, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Blenheim, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Amberley, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Preci, Italy': 'address'
+ERROR:root:Error geocoding location 'Pamanukan, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Kandrian, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'Fiji region' to continent: "Invalid Country Name: 'Fiji region'"
+ERROR:root:Error geocoding location 'Fiji region': 'address'
+ERROR:root:Error geocoding location 'Gisborne, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Rabaul, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Chauk, Myanmar': 'address'
+ERROR:root:Error converting country 'the Loyalty Islands' to continent: "Invalid Country Name: 'the Loyalty Islands'"
+ERROR:root:Error geocoding location 'the Loyalty Islands': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error converting country 'nan' to continent: object of type 'float' has no len()
+ERROR:root:Error geocoding location 'nan': 'address'
+ERROR:root:Error geocoding location 'Rosa Zarate, Ecuador': 'address'
+ERROR:root:Error geocoding location 'Muisne, Ecuador': 'address'
+ERROR:root:Error geocoding location 'Norsup, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Muisne, Ecuador': 'address'
+ERROR:root:Error geocoding location 'Kumamoto, Japan': 'address'
+ERROR:root:Error geocoding location 'Mawlaik, Myanmar': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sumatra, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Mil’kovo, Russia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Pedro Bay, Alaska': 'address'
+ERROR:root:Error geocoding location 'La Cruz de Loreto, Mexico': 'address'
+ERROR:root:Error geocoding location 'Sarangani, Philippines': 'address'
+ERROR:root:Error geocoding location 'Amahai, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Murghob, Tajikistan': 'address'
+ERROR:root:Error geocoding location 'Tarauacá, Brazil': 'address'
+ERROR:root:Error geocoding location 'Iñapari, Peru': 'address'
+ERROR:root:Error geocoding location 'Iñapari, Peru': 'address'
+ERROR:root:Error geocoding location 'Buala, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lefkáda, Greece': 'address'
+ERROR:root:Error geocoding location 'Makurazaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Coquimbo, Chile': 'address'
+ERROR:root:Error geocoding location 'Coquimbo, Chile': 'address'
+ERROR:root:Error converting country 'India region' to continent: "Invalid Country Name: 'India region'"
+ERROR:root:Error geocoding location 'Ovalle, Chile': 'address'
+ERROR:root:Error converting country 'Timor Leste' to continent: "Invalid Country Name: 'Timor Leste'"
+ERROR:root:Error geocoding location 'Maubara, Timor Leste': 'address'
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sorong, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Illapel, Chile': 'address'
+ERROR:root:Error geocoding location 'Illapel, Chile': 'address'
+ERROR:root:Error geocoding location 'Illapel, Chile': 'address'
+ERROR:root:Error geocoding location 'Illapel, Chile': 'address'
+ERROR:root:Error geocoding location 'Illapel, Chile': 'address'
+ERROR:root:Error geocoding location 'Topolobampo, Mexico': 'address'
+ERROR:root:Error geocoding location 'Gizo, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Abepura, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Bathsheba, Barbados': 'address'
+ERROR:root:Error converting country 'Japan region' to continent: "Invalid Country Name: 'Japan region'"
+ERROR:root:Error converting country 'Japan region' to continent: "Invalid Country Name: 'Japan region'"
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Ugashik, Alaska': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location '?funato, Japan': 'address'
+ERROR:root:Error geocoding location 'Nepal': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Bharatpur, Nepal': 'address'
+ERROR:root:Error geocoding location 'Bharatpur, Nepal': 'address'
+ERROR:root:Error geocoding location 'Alo, Wallis and Futuna': 'address'
+ERROR:root:Error geocoding location 'Hihifo, Tonga': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Maumere, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Miyako, Japan': 'address'
+ERROR:root:Error geocoding location 'El Aguilar, Argentina': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Punta de Burica, Panama': 'address'
+ERROR:root:Error geocoding location 'Punta de Burica, Panama': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Sangay, Philippines': 'address'
+ERROR:root:Error geocoding location 'Ternate, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Tobelo, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Gisborne, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Ternate, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Finschhafen, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'Fiji region' to continent: "Invalid Country Name: 'Fiji region'"
+ERROR:root:Error geocoding location 'Fiji region': 'address'
+ERROR:root:Error geocoding location 'Intipucá, El Salvador': 'address'
+ERROR:root:Error geocoding location 'Aniso, Peru': 'address'
+ERROR:root:Error converting country 'Micronesia region' to continent: "Invalid Country Name: 'Micronesia region'"
+ERROR:root:Error geocoding location 'Micronesia region': 'address'
+ERROR:root:Error converting country 'Fiji region' to continent: "Invalid Country Name: 'Fiji region'"
+ERROR:root:Error geocoding location 'Fiji region': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error geocoding location 'Puerto Madero, Mexico': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Mata-Utu, Wallis and Futuna': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kamariótissa, Greece': 'address'
+ERROR:root:Error geocoding location 'Punta de Burica, Panama': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Vernon, Canada': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Coyuquilla Norte, Mexico': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Belén, Nicaragua': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error converting country 'California' to continent: "Invalid Country Name: 'California'"
+ERROR:root:Error geocoding location 'Indianola, California': 'address'
+ERROR:root:Error geocoding location 'Nago, Japan': 'address'
+ERROR:root:Error geocoding location 'Greenland, Barbados': 'address'
+ERROR:root:Error geocoding location 'Hotan, China': 'address'
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error converting country 'the Kermadec Islands' to continent: "Invalid Country Name: 'the Kermadec Islands'"
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error converting country 'Fiji region' to continent: "Invalid Country Name: 'Fiji region'"
+ERROR:root:Error geocoding location 'Fiji region': 'address'
+ERROR:root:Error converting country 'Scotia Sea' to continent: "Invalid Country Name: 'Scotia Sea'"
+ERROR:root:Error geocoding location 'Scotia Sea': 'address'
+ERROR:root:Error converting country 'Scotia Sea' to continent: "Invalid Country Name: 'Scotia Sea'"
+ERROR:root:Error geocoding location 'Scotia Sea': 'address'
+ERROR:root:Error geocoding location 'Coquimbo, Chile': 'address'
+ERROR:root:Error geocoding location 'Etchoropo, Mexico': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Sagbayan, Philippines': 'address'
+ERROR:root:Error geocoding location 'Kíssamos, Greece': 'address'
+ERROR:root:Error converting country 'Okhotsk' to continent: "Invalid Country Name: 'Okhotsk'"
+ERROR:root:Error geocoding location 'Okhotsk': 'address'
+ERROR:root:Error geocoding location 'Kermadec Islands, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Khuzdar, Pakistan': 'address'
+ERROR:root:Error geocoding location 'Atiquipa, Peru': 'address'
+ERROR:root:Error geocoding location 'Bela, Pakistan': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Atka, Alaska': 'address'
+ERROR:root:Error converting country 'Japan region' to continent: "Invalid Country Name: 'Japan region'"
+ERROR:root:Error converting country 'Timor Leste' to continent: "Invalid Country Name: 'Timor Leste'"
+ERROR:root:Error geocoding location 'Lospalos, Timor Leste': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Atka, Alaska': 'address'
+ERROR:root:Error geocoding location 'Blenheim, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Bahía Solano, Colombia': 'address'
+ERROR:root:Error geocoding location 'Blenheim, New Zealand': 'address'
+ERROR:root:Error converting country 'South Sandwich Islands region' to continent: "Invalid Country Name: 'South Sandwich Islands region'"
+ERROR:root:Error geocoding location 'Kandrian, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'northern Mid-Atlantic Ridge' to continent: "Invalid Country Name: 'northern Mid-Atlantic Ridge'"
+ERROR:root:Error geocoding location 'Masachapa, Nicaragua': 'address'
+ERROR:root:Error geocoding location 'Java, Indonesia': 'address'
+ERROR:root:Error converting country 'Okhotsk' to continent: "Invalid Country Name: 'Okhotsk'"
+ERROR:root:Error geocoding location 'Okhotsk': 'address'
+ERROR:root:Error converting country 'Okhotsk' to continent: "Invalid Country Name: 'Okhotsk'"
+ERROR:root:Error geocoding location 'Okhotsk': 'address'
+ERROR:root:Error geocoding location 'Vaini, Tonga': 'address'
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Pagan+region%2C+Northern+Mariana+Islands&format=json&limit=1
+ERROR:root:Error geocoding location 'Rabaul, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Linqiong, China': 'address'
+ERROR:root:Error geocoding location 'Kuril’sk, Russia': 'address'
+ERROR:root:Error geocoding location 'Aitape, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kh?sh, Iran': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Abepura, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Finschhafen, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Ozernovskiy, Russia': 'address'
+ERROR:root:Error geocoding location 'Ozernovskiy, Russia': 'address'
+ERROR:root:Error geocoding location 'Belaya Gora, Russia': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Yacuanquer, Colombia': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Obihiro, Japan': 'address'
+ERROR:root:Error geocoding location 'Vallenar, Chile': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Edna Bay, Alaska': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error converting country 'Banda Sea' to continent: "Invalid Country Name: 'Banda Sea'"
+ERROR:root:Error geocoding location 'Banda Sea': 'address'
+ERROR:root:Error geocoding location '?funato, Japan': 'address'
+ERROR:root:Error geocoding location 'Champerico, Guatemala': 'address'
+ERROR:root:Error geocoding location 'Shwebo, Myanmar': 'address'
+ERROR:root:Error geocoding location 'Champerico, Guatemala': 'address'
+ERROR:root:Error geocoding location 'Prince Rupert, Canada': 'address'
+ERROR:root:Error geocoding location 'Costa Rica': 'address'
+ERROR:root:Error geocoding location 'Tual, Indonesia': 'address'
+ERROR:root:Error geocoding location 'San Agustín, Colombia': 'address'
+ERROR:root:Error geocoding location 'Hojancha, Costa Rica': 'address'
+ERROR:root:Error geocoding location 'Sulangan, Philippines': 'address'
+ERROR:root:Error geocoding location 'Puerto El Triunfo, El Salvador': 'address'
+ERROR:root:Error geocoding location 'Tobelo, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Poronaysk, Russia': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Neiafu, Tonga': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Lae, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'San Luis, Mexico': 'address'
+ERROR:root:Error geocoding location 'El Habillal, Mexico': 'address'
+ERROR:root:Error converting country 'off the west coast of northern Sumatra' to continent: "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error converting country 'off the west coast of northern Sumatra' to continent: "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error geocoding location 'Constitución, Chile': 'address'
+ERROR:root:Error geocoding location 'Kainantu, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Santiago Llano Grande, Mexico': 'address'
+ERROR:root:Error geocoding location 'Saryg-Sep, Russia': 'address'
+ERROR:root:Error geocoding location 'Jimalalud, Philippines': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error converting country 'off the west coast of northern Sumatra' to continent: "Invalid Country Name: 'off the west coast of northern Sumatra'"
+ERROR:root:Error geocoding location 'Saryg-Sep, Russia': 'address'
+ERROR:root:Error geocoding location 'Wau, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Nuevo Balsas, Mexico': 'address'
+ERROR:root:Error geocoding location 'Santiago, Peru': 'address'
+ERROR:root:Error geocoding location 'Van, Turkey': 'address'
+ERROR:root:Error geocoding location 'Finschhafen, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Mangan, India': 'address'
+ERROR:root:Error geocoding location 'Miyako, Japan': 'address'
+ERROR:root:Error geocoding location 'Kabanjahe, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Contamana, Peru': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Angoram, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'Kermadec Islands region' to continent: "Invalid Country Name: 'Kermadec Islands region'"
+ERROR:root:Error geocoding location 'Miyako, Japan': 'address'
+ERROR:root:Error geocoding location 'Wé, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Ishikawa, Japan': 'address'
+ERROR:root:Error geocoding location 'Ishinomaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Helio García Alfaro, Mexico': 'address'
+ERROR:root:Error geocoding location 'Tachilek, Myanmar': 'address'
+ERROR:root:Error geocoding location '?tsuchi, Japan': 'address'
+ERROR:root:Error geocoding location 'Hasaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Kamaishi, Japan': 'address'
+ERROR:root:Error geocoding location '?arai, Japan': 'address'
+ERROR:root:Error geocoding location '?funato, Japan': 'address'
+ERROR:root:Error geocoding location 'Constitución, Chile': 'address'
+ERROR:root:Error geocoding location 'Tomé, Chile': 'address'
+ERROR:root:Error geocoding location 'Dalbandin, Pakistan': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Carahue, Chile': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Bam, Iran': 'address'
+ERROR:root:Error geocoding location 'Kandrian, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'El Huitusi, Mexico': 'address'
+ERROR:root:Error geocoding location 'Papua, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Methven, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Ecuador': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Madang, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'New Britain region, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Cañete, Chile': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Biak, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Biak, Indonesia': 'address'
+ERROR:root:Error converting country 'India region' to continent: "Invalid Country Name: 'India region'"
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Meulaboh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Qamdo, China': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error converting country 'MX' to continent: argument of type 'functools._lru_cache_wrapper' is not iterable
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Delta%2C+B.C.%2C+MX&format=json&limit=1
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Delta%2C+B.C.%2C+MX&format=json&limit=1
+ERROR:root:Error geocoding location 'Delta, B.C., MX': HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Delta%2C+B.C.%2C+MX&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+ERROR:root:Error geocoding location 'Bamboo Flat, India': 'address'
+ERROR:root:Error geocoding location 'Tomé, Chile': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error geocoding location 'Santa Cruz, Chile': 'address'
+ERROR:root:Error geocoding location 'Santa Cruz, Chile': 'address'
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Talcahuano, Chile': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Lebu, Chile': 'address'
+ERROR:root:Error geocoding location 'Quirihue, Chile': 'address'
+ERROR:root:Error geocoding location 'Katsuren-haebaru, Japan': 'address'
+ERROR:root:Error geocoding location 'Léogâne, Haiti': 'address'
+ERROR:root:Error converting country 'California' to continent: "Invalid Country Name: 'California'"
+ERROR:root:Error geocoding location 'Ferndale, California': 'address'
+ERROR:root:Error geocoding location 'Gizo, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Gizo, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Gizo, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Ba, Fiji': 'address'
+ERROR:root:Error geocoding location 'Bima, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Naze, Japan': 'address'
+ERROR:root:Error geocoding location 'Tual, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Pariaman, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Matavai, Samoa': 'address'
+ERROR:root:Error geocoding location 'Banjar, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Tateyama, Japan': 'address'
+ERROR:root:Error geocoding location 'Bamboo Flat, India': 'address'
+ERROR:root:Error geocoding location '?yama, Japan': 'address'
+ERROR:root:Error geocoding location 'Bahía de Kino, Mexico': 'address'
+ERROR:root:Error geocoding location 'Te Anau, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Guanaja, Honduras': 'address'
+ERROR:root:Error geocoding location '‘Ohonua, Tonga': 'address'
+ERROR:root:Error geocoding location 'Sarangani, Philippines': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Jurm, Afghanistan': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Gorontalo, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Brisas Barra de Suchiate, Mexico': 'address'
+ERROR:root:Error geocoding location 'Nookat, Kyrgyzstan': 'address'
+ERROR:root:Error geocoding location 'Obihiro, Japan': 'address'
+ERROR:root:Error geocoding location 'Tobelo, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Jumla, Nepal': 'address'
+ERROR:root:Error geocoding location 'Morioka, Japan': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error geocoding location 'Namie, Japan': 'address'
+ERROR:root:Error geocoding location 'Bamboo Flat, India': 'address'
+ERROR:root:Error geocoding location 'Mizusawa, Japan': 'address'
+ERROR:root:Error geocoding location 'Tianpeng, China': 'address'
+ERROR:root:Error geocoding location 'Hasaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Hotan, China': 'address'
+ERROR:root:Error converting country 'Philippine Islands region' to continent: "Invalid Country Name: 'Philippine Islands region'"
+ERROR:root:Error geocoding location 'Philippine Islands region': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Koróni, Greece': 'address'
+ERROR:root:Error geocoding location 'Methóni, Greece': 'address'
+ERROR:root:Error geocoding location 'Gisborne, New Zealand': 'address'
+ERROR:root:Error converting country 'Ant' to continent: "Invalid Country Alpha-3 code: 'Ant'"
+ERROR:root:Error geocoding location 'Ant': 'address'
+ERROR:root:Error geocoding location 'Basse-Pointe, Martinique': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Dompu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Dompu, Indonesia': 'address'
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Lae%2C+Papua+New+Guinea&format=json&limit=1
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Lae%2C+Papua+New+Guinea&format=json&limit=1
+ERROR:root:Error geocoding location 'Lae, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Macas, Ecuador': 'address'
+ERROR:root:Error converting country 'Ant' to continent: "Invalid Country Alpha-3 code: 'Ant'"
+ERROR:root:Error geocoding location 'Ant': 'address'
+ERROR:root:Error geocoding location 'Tocopilla, Chile': 'address'
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Te Anau, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sungai Penuh, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Timbiquí, Colombia': 'address'
+ERROR:root:Error geocoding location 'Lata, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'San Vicente de Cañete, Peru': 'address'
+ERROR:root:Error geocoding location 'Rengasdengklok, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Luganville, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Tobelo, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Mikuni, Japan': 'address'
+ERROR:root:Error geocoding location 'Kashiwazaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Iztapa, Guatemala': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Gizo, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Nanao, Japan': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error converting country 'S' to continent: "Invalid Country Name: 'S'"
+ERROR:root:Error geocoding location 'S': 'address'
+ERROR:root:Error geocoding location 'Ternate, Indonesia': 'address'
+ERROR:root:Error converting country 'the Kuril Islands' to continent: "Invalid Country Name: 'the Kuril Islands'"
+ERROR:root:Error geocoding location 'Hengchun, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Hengchun, Taiwan': 'address'
+ERROR:root:Error converting country 'Kuril Islands' to continent: "Invalid Country Name: 'Kuril Islands'"
+ERROR:root:Error geocoding location 'Kuril Islands': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'San Vicente de Cañete, Peru': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'Hawaii' to continent: "Invalid Country Name: 'Hawaii'"
+ERROR:root:Error geocoding location 'Puako, Hawaii': 'address'
+ERROR:root:Error geocoding location 'Hihifo, Tonga': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Ozernovskiy, Russia': 'address'
+ERROR:root:Error geocoding location 'Norsup, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Singaparna, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Tilichiki, Russia': 'address'
+ERROR:root:Error geocoding location 'Singkil, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Pangai, Tonga': 'address'
+ERROR:root:Error geocoding location 'Pangai, Tonga': 'address'
+ERROR:root:Error geocoding location 'Copiapó, Chile': 'address'
+ERROR:root:Error geocoding location 'Copiapó, Chile': 'address'
+ERROR:root:Error geocoding location 'Tilichiki, Russia': 'address'
+ERROR:root:Error geocoding location 'Tilichiki, Russia': 'address'
+ERROR:root:Error geocoding location 'Lautoka, Fiji': 'address'
+ERROR:root:Error geocoding location 'Ambon, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Chipinge, Zimbabwe': 'address'
+ERROR:root:Error geocoding location 'Kýthira, Greece': 'address'
+ERROR:root:Error geocoding location 'Bahía de Kino, Mexico': 'address'
+ERROR:root:Error converting country 'Democratic Republic' to continent: "Invalid Country Name: 'Democratic Republic'"
+ERROR:root:Error geocoding location 'Ishinomaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'San Pedro de Atacama, Chile': 'address'
+ERROR:root:Error geocoding location 'Muzaffar?b?d, Pakistan': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Yurimaguas, Peru': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Ishinomaki, Japan': 'address'
+ERROR:root:Error converting country 'India region' to continent: "Invalid Country Name: 'India region'"
+ERROR:root:Error geocoding location 'Singkil, Indonesia': 'address'
+ERROR:root:Error geocoding location 'San Juan del Sur, Nicaragua': 'address'
+ERROR:root:Error converting country 'California' to continent: "Invalid Country Name: 'California'"
+ERROR:root:Error geocoding location 'Big Lagoon, California': 'address'
+ERROR:root:Error geocoding location 'Iquique, Chile': 'address'
+ERROR:root:Error geocoding location 'Singkil, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padangsidempuan, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Padang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Singkil, Indonesia': 'address'
+ERROR:root:Error converting country 'Banda Sea' to continent: "Invalid Country Name: 'Banda Sea'"
+ERROR:root:Error geocoding location 'Banda Sea': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Pulau-Pulau Talaud, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Palimbang, Philippines': 'address'
+ERROR:root:Error geocoding location 'Katsuura, Japan': 'address'
+ERROR:root:Error converting country 'India region' to continent: "Invalid Country Name: 'India region'"
+ERROR:root:Error geocoding location 'Sabang, Indonesia': 'address'
+ERROR:root:Error converting country '2004 Sumatra - Andaman Islands Earthquake' to continent: "Invalid Country Name: '2004 Sumatra - Andaman Islands Earthquake'"
+ERROR:root:Error converting country 'Macquarie Island' to continent: "Invalid Country Name: 'Macquarie Island'"
+ERROR:root:Error geocoding location 'Macquarie Island': 'address'
+ERROR:root:Error geocoding location 'George Town, Cayman Islands': 'address'
+ERROR:root:Error geocoding location 'Nemuro, Japan': 'address'
+ERROR:root:Error geocoding location 'Nemuro, Japan': 'address'
+ERROR:root:Error geocoding location 'Nabire, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Riverton, New Zealand': 'address'
+ERROR:root:Error geocoding location 'Pizarro, Colombia': 'address'
+ERROR:root:Error converting country 'Timor Leste' to continent: "Invalid Country Name: 'Timor Leste'"
+ERROR:root:Error geocoding location 'Maubara, Timor Leste': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Port McNeill, Canada': 'address'
+ERROR:root:Error geocoding location 'Ojiya, Japan': 'address'
+ERROR:root:Error geocoding location 'Masachapa, Nicaragua': 'address'
+ERROR:root:Error geocoding location 'Talisay, Philippines': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Teno, Chile': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Atlasovo, Russia': 'address'
+ERROR:root:Error geocoding location 'Cañete, Chile': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error converting country 'Afghanistan-Tajikistan-Pakistan region' to continent: "Invalid Country Name: 'Afghanistan-Tajikistan-Pakistan region'"
+ERROR:root:Error geocoding location 'Nabire, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Papua, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Nabire, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Ambon, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Tadine, New Caledonia': 'address'
+ERROR:root:Error geocoding location 'Bam, Iran': 'address'
+ERROR:root:Error geocoding location 'Progreso, Panama': 'address'
+ERROR:root:Error converting country 'California' to continent: "Invalid Country Name: 'California'"
+ERROR:root:Error geocoding location 'San Simeon, California': 'address'
+ERROR:root:Error geocoding location 'Yujing, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Can-Avid, Philippines': 'address'
+ERROR:root:Error geocoding location 'Isangel, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Ishinomaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Kushiro, Japan': 'address'
+ERROR:root:Error geocoding location 'Aktash, Russia': 'address'
+ERROR:root:Error geocoding location 'Kushiro, Japan': 'address'
+ERROR:root:Error geocoding location 'Aktash, Russia': 'address'
+ERROR:root:Error geocoding location 'Kushiro, Japan': 'address'
+ERROR:root:Error geocoding location 'Taungdwingyi, Myanmar': 'address'
+ERROR:root:Error geocoding location 'Te Anau, New Zealand': 'address'
+ERROR:root:Error converting country 'Scotia Sea' to continent: "Invalid Country Name: 'Scotia Sea'"
+ERROR:root:Error geocoding location 'Scotia Sea': 'address'
+ERROR:root:Error geocoding location 'Rabaul, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Ovalle, Chile': 'address'
+ERROR:root:Error geocoding location 'Atlasovo, Russia': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Tobelo, Indonesia': 'address'
+ERROR:root:Error geocoding location '?funato, Japan': 'address'
+ERROR:root:Error geocoding location 'Dellys, Algeria': 'address'
+ERROR:root:Error geocoding location 'Ruteng, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Cuyutlán, Mexico': 'address'
+ERROR:root:Error geocoding location 'Puerto San José, Guatemala': 'address'
+ERROR:root:Error geocoding location 'Kirakira, Solomon Islands': 'address'
+ERROR:root:Error geocoding location 'Kokopo, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'New Ireland region, Papua New Guinea': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Cantwell, Alaska': 'address'
+ERROR:root:Error geocoding location 'Sinabang, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Cantwell, Alaska': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Bamboo Flat, India': 'address'
+ERROR:root:Error geocoding location 'Aitape, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Punta de Burica, Panama': 'address'
+ERROR:root:Error geocoding location 'Abhar, Iran': 'address'
+ERROR:root:Error geocoding location 'Monte Patria, Chile': 'address'
+ERROR:root:Error geocoding location 'Sola, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Copiapó, Chile': 'address'
+ERROR:root:Error geocoding location 'Nuxco, Mexico': 'address'
+ERROR:root:Error geocoding location 'Hualien City, Taiwan': 'address'
+ERROR:root:Error geocoding location 'Calama, Chile': 'address'
+ERROR:root:Error geocoding location 'Mindanao, Philippines': 'address'
+ERROR:root:Error geocoding location 'Jurm, Afghanistan': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Aitape, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Port-Vila, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Hanamaki, Japan': 'address'
+ERROR:root:Error geocoding location 'Kimbe, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kendari, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Manokwari, Indonesia': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Kokhanok, Alaska': 'address'
+ERROR:root:Error geocoding location 'Skýros, Greece': 'address'
+ERROR:root:Error geocoding location 'Punta de Bombón, Peru': 'address'
+ERROR:root:Error geocoding location 'Achanizo, Peru': 'address'
+ERROR:root:Error geocoding location 'Pacocha, Peru': 'address'
+ERROR:root:Error geocoding location 'Atico, Peru': 'address'
+ERROR:root:Error geocoding location 'Panguna, Papua New Guinea': 'address'
+ERROR:root:Error geocoding location 'Kure, Japan': 'address'
+ERROR:root:Error geocoding location 'Ambon, Indonesia': 'address'
+ERROR:root:Error converting country 'Washington' to continent: "Invalid Country Name: 'Washington'"
+ERROR:root:Error geocoding location 'Longbranch, Washington': 'address'
+ERROR:root:Error geocoding location 'Ternate, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Cojutepeque, El Salvador': 'address'
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Bhach%3Fu%2C+India&format=json&limit=1
+ERROR:root:Error geocoding location 'Bengkulu, Indonesia': 'address'
+ERROR:root:Error geocoding location 'Puerto El Triunfo, El Salvador': 'address'
+ERROR:root:Error converting country 'Alaska' to continent: "Invalid Country Name: 'Alaska'"
+ERROR:root:Error geocoding location 'Old Harbor, Alaska': 'address'
+ERROR:root:Error geocoding location 'Port-Olry, Vanuatu': 'address'
+ERROR:root:Error geocoding location 'Mindanao, Philippines': 'address'
+INFO:root:Saved updated DataFrame to 'earthquake_updated.csv'
